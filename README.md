@@ -4,4 +4,4 @@
 
 ## **GUIDELINES:**
 
-- **Create an Amazon EBS volume and attach it to and EC2 instance**
+- **Create an Amazon EBS volume and attach it to an EC2 instance**
